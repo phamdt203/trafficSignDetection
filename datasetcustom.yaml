@@ -1,0 +1,57 @@
+path: final_data
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: Pedestrian Crossing
+  1: Equal-level Intersection
+  2: No Entry
+  3: Right Turn Only
+  4: Intersection
+  5: Intersection with Uncontrolled Road
+  6: Dangerous Turn
+  7: No Left Turn
+  8: Bus Stop
+  9: Roundabout
+  10: No Stopping and No Parking
+  11: U-Turn Allowed
+  12: Lane Allocation 
+  13: No Left Turn for Motorcycles
+  14: Slow Down
+  15: No Trucks Allowed
+  16: Narrow Road on the Right
+  17: No Passenger Cars and Trucks
+  18: Height Limit
+  19: No U-Turn
+  20: No U-Turn and No Right Turn
+  21: No Cars Allowed
+  22: Narrow Road on the Left
+  23: Uneven Road
+  24: No Two or Three-wheeled Vehicles
+  25: Customs Checkpoint
+  26: Motorcycles Only
+  27: Obstacle on the Road
+  28: Children Present
+  29: Trucks and Containers
+  30: No Motorcycles Allowed
+  31: Trucks Only
+  32: Road with Surveillance Camera
+  33: No Right Turn
+  34: Series of Dangerous Turns
+  35: No Containers Allowed
+  36: No Left or Right Turn
+  37: No Straight and Right Turn
+  38: Intersection with T-Junction
+  39: Speed limit (50km/h)
+  40: Speed limit (60km/h)
+  41: Speed limit (80km/h)
+  42: Speed limit (40km/h)
+  43: Left Turn
+  44: Low Clearance
+  45: Other Danger
+  46: Go Straight
+  47: No Parking
+  48: Containers Only
+  49: No U-Turn for Cars
+  50: Level Crossing with Barriers
